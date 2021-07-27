@@ -28,7 +28,7 @@ Concluez en résumant les points importants, c'est-à-dire ceux que l'audience
 Un support de présentation aide à faire passer le message.
 
 
-###Il doit être simple, clair et lisible.
+**Il doit être simple, clair et lisible.**
 Utilisez une taille de caractères suffisamment grosse pour pouvoir être lu à distance.  
 Utilisez des mots-clés, et éventuellement des schémas lorsqu'une description verbale souffrirait de lourdeur ou longueur.  
 
